@@ -1,0 +1,12 @@
+com\cometproject\stresstest\connections\CometClientConfig.class
+com\cometproject\stresstest\connections\messages\TalkMessageComposer.class
+com\cometproject\stresstest\connections\messages\SSOTicketMessageComposer.class
+com\cometproject\stresstest\CometStressTest.class
+com\cometproject\stresstest\commands\CommandHandler.class
+com\cometproject\stresstest\connections\messages\ChangeFigureMessageComposer.class
+com\cometproject\stresstest\connections\messages\ExitRoomMessageComposer.class
+com\cometproject\stresstest\connections\messages\LoadRoomMessageComposer.class
+com\cometproject\stresstest\connections\messages\WalkMessageComposer.class
+com\cometproject\stresstest\connections\CometClientConnection.class
+com\cometproject\stresstest\CometStressTest$1.class
+com\cometproject\stresstest\connections\CometClientConnection$1.class

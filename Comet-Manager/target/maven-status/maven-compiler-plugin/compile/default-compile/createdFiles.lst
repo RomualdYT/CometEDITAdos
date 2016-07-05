@@ -1,0 +1,11 @@
+com\cometproject\manager\repositories\instances\Instance.class
+com\cometproject\manager\controllers\api\InstanceApiController.class
+com\cometproject\manager\CometManagerApplication.class
+com\cometproject\manager\controllers\InstanceController.class
+com\cometproject\manager\ServletInitializer.class
+com\cometproject\manager\repositories\InstanceRepository.class
+com\cometproject\manager\controllers\IndexController.class
+com\cometproject\manager\repositories\customers\roles\CustomerRole.class
+com\cometproject\manager\controllers\HomeController.class
+com\cometproject\manager\repositories\CustomerRepository.class
+com\cometproject\manager\repositories\customers\Customer.class

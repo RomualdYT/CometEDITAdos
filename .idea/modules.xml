@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Comet-API/Comet-API.iml" filepath="$PROJECT_DIR$/Comet-API/Comet-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comet-API-Example/Comet-API-Example.iml" filepath="$PROJECT_DIR$/Comet-API-Example/Comet-API-Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comet-Launcher/Comet-Launcher.iml" filepath="$PROJECT_DIR$/Comet-Launcher/Comet-Launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comet-Manager/Comet-Manager.iml" filepath="$PROJECT_DIR$/Comet-Manager/Comet-Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comet-Parent.iml" filepath="$PROJECT_DIR$/Comet-Parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comet-Server/Comet-Server.iml" filepath="$PROJECT_DIR$/Comet-Server/Comet-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comet-Server-Protocol/Comet-Server-Protocol.iml" filepath="$PROJECT_DIR$/Comet-Server-Protocol/Comet-Server-Protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comet-StressTest/Comet-StressTest.iml" filepath="$PROJECT_DIR$/Comet-StressTest/Comet-StressTest.iml" />
+    </modules>
+  </component>
+</project>
